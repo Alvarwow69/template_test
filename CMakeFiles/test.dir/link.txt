@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libtest.so -o ../lib/libtest.so CMakeFiles/test.dir/sources/main.cpp.o 
